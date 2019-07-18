@@ -7,3 +7,5 @@ Write-Host "Equipo: Juan Pablo - Juan Camilo - Rie Kaneko - Andres Cocunubo"
 $User = Read-Host -Prompt 'Input the user name';
 $SOVer = (Get-WMIObject win32_operatingsystem).version;
 Write-Host "Welcome $User your operation system version is $SOVer";
+$date = $(Get-Date);
+echo $date;
