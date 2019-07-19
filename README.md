@@ -6,6 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.1.1] - 2019-07-19
 ### Added
 - Added print line "hello world"
+- Added rest funtion
 
 ## [1.0.1] - 2019-07-18
 ### Added
