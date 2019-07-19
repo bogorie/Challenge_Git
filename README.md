@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - Added print line "hello world"
 - Added mult funtion
+- Added rest funtion
+- Added sum funtion.
 
 ## [1.0.1] - 2019-07-18
 ### Added
